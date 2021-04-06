@@ -1,6 +1,6 @@
-const base_url = "https://api.edaman.com/search";
-const api_id = "eafe61fb";
-const api_key = "6ef46546e1ffd4d0697f313d25da7aa7";
+const base_url = "https://api.edamam.com/search";
+const api_id = "b6878c23";
+const api_key = "dd266e5c8fb763c1ddb6211f66f1972e";
 
 export const getApiUrl = (query) =>
 	`${base_url}?q=${query}&app_id=${api_id}&app_key=${api_key}`;
