@@ -5,8 +5,10 @@ import logo from "./../assets/img/logo.png";
 const Header = () => (
 	<AppBar position="sticky">
 		<Toolbar>
-			<img src={logo} alt="logo" width="32" height="32" />
-			<h1>Nutritional App</h1>
+			<a href="https://nutritionalapp-food.com/">
+				<img src={logo} alt="logo" width="32" height="32" />
+				<h1>Nutritional App</h1>
+			</a>
 		</Toolbar>
 	</AppBar>
 );
