@@ -14,4 +14,4 @@
 
 ![nutritional App Food](https://repository-images.githubusercontent.com/354985033/d60aeb00-9736-11eb-9388-334f322b1e99)
 
-see project [see project](https://nutritionalapp-food.netlify.app/).
+see project [url](https://nutritionalapp-food.netlify.app/).
